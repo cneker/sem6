@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="choose_continent">Выбрать континент</string>
+    <string name="europe">Европа</string>
+    <string name="africa">Африка</string>
+    <string name="asia">Азия</string>
+    <string name="message">Выберете материк</string>
+    <string name="title_activity_places">Places</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>

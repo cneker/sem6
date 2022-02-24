@@ -1,0 +1,18 @@
+﻿<Window x:Class="spp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:spp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="N:" Margin="161,60,604,327"></Label>
+        <Label Content="Result:" Margin="138,107,598,280"></Label>
+        <TextBox x:Name="TextBoxN" Margin="202,65,538,327"></TextBox>
+        <TextBlock x:Name="TextVlock" Margin="202,112,361,279" Text ="0.0"></TextBlock>
+        <Button Margin="96,217,574,146" Content="Start" Click="Start"></Button>
+        <Button Margin="464,217,206,146" Content="Pause/Continue" Click="Pause"></Button>
+        <Button Margin="270,217,400,146" Content="STOP" Click="Stop"></Button>
+    </Grid>
+</Window>
