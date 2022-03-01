@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/sem6/RPOMP/lab06/app/src/main/res/layout/activity_countries.xml" value="0.27447916666666666" />
+        <entry key="..\:/sem6/RPOMP/lab06/app/src/main/res/layout/activity_main.xml" value="0.23738738738738738" />
+        <entry key="..\:/sem6/RPOMP/lab06/app/src/main/res/layout/activity_places.xml" value="0.264" />
+        <entry key="..\:/sem6/RPOMP/lab06/app/src/main/res/layout/content_scrolling.xml" value="0.23738738738738738" />
+        <entry key="..\:/sem6/RPOMP/lab06/app/src/main/res/layout/fragment_places.xml" value="0.27447916666666666" />
         <entry key="..\:/testi/lab06/app/src/main/res/layout/activity_countries.xml" value="0.17844202898550723" />
         <entry key="..\:/testi/lab06/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/testi/lab06/app/src/main/res/layout/activity_places.xml" value="0.264" />

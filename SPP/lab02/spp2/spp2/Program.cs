@@ -43,8 +43,8 @@ namespace spp2
                 Console.WriteLine($"Mark: {car.Mark}");
             }
             context.Cars.AddRange(
-                new Car() {Mark = "Mark4"},
-                new Car() {Mark = "Mark5"});
+                new Car() { Mark = "Mark4" },
+                new Car() { Mark = "Mark5" });
             context.SaveChanges();
             Console.WriteLine("\"INSERT\" After:");
             foreach (var car in context.Cars.ToList())

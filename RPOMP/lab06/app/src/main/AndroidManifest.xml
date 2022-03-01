@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab06">
         <activity
+            android:name=".asd"
+            android:exported="false"
+            android:label="@string/title_activity_asd"
+            android:theme="@style/Theme.Lab06.NoActionBar" />
+        <activity
             android:name=".Places"
             android:exported="false"
             android:label="@string/title_activity_places"
